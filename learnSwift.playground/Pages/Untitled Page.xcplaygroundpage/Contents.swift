@@ -16,4 +16,3 @@ class Pizza {
 
 let myPizza = Pizza()
 myPizza.showName()
-
