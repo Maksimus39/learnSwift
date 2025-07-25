@@ -200,3 +200,66 @@ import Foundation
 //let priceStr = "9.99"
 //let res = Int(Double(priceStr)!)
 //print(res)
+
+
+
+// --------------------------------------------------- Математические операции ----------------------------------------------
+
+//var a = 14
+//var b = 5
+//var c = 2.5
+//var d = 0.5
+//
+//var sum1 = a + b
+//print(sum1)
+//
+//var sum2 = c + d
+//print(sum2)
+//
+//var sum3 = sum1 + Int(sum2)
+//print(sum3)                  // Сложение double возможно только после приведения типов к одному из типов
+//
+//var mult = a * b
+//print(mult)
+//
+//var deliver = c / d
+//print(deliver)
+//
+//
+//var rem1 = a % b
+//print(rem1)
+
+
+//var a = 1
+//a = a + 1
+//print(a)
+//
+//
+//var b = 2
+//b += 1
+//print(b)
+//
+//
+//var ab = a + b
+//print(ab)
+
+// ------------------------------------------- Математические задачи ---------------------------------------------
+
+//print("Введите два числа!:")
+//var numOne = readLine()
+//var numTwo = readLine()
+//var sumOneAndTwo = Int(numOne!)! + Int(numTwo!)!
+//print("Результат сложения двух чисел составил \(sumOneAndTwo)")
+
+
+//print("Предложите пользователю ввести три числа дробного типа!")
+//var numOneString = readLine()
+//var numTwoString = readLine()
+//var numThreeString = readLine()
+//
+//var numOne: Double = Double(numOneString!)!
+//var numTwo: Double = Double(numTwoString!)!
+//var numThree: Double = Double(numThreeString!)!
+//
+//var result = (numOne + numTwo) / numThree
+//print(result)
