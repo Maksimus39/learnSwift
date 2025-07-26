@@ -263,3 +263,19 @@ import Foundation
 //
 //var result = (numOne + numTwo) / numThree
 //print(result)
+
+
+// Задача 3
+
+//print("Сколько друзей было с вами в баре и на какую сумму вышел счёт!")
+//let friendsInBar = readLine()
+//let friendsBarRepeat = Int(friendsInBar!)!
+//print("В баре со мной было \(friendsInBar!) человек.")
+//print("Мы всего потратили!")
+//let currentMoney = readLine()
+//let currentMoneyRepeat = Double(currentMoney!)!
+//print("А сейчас мы узнаем сколько выходит с одного человека!")
+//let resultMoneyOne = currentMoneyRepeat / Double(friendsBarRepeat)
+//print("Значит с каждого по, \(resultMoneyOne) рублей")
+
+
