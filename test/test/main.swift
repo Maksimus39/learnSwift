@@ -279,3 +279,26 @@ import Foundation
 //print("Значит с каждого по, \(resultMoneyOne) рублей")
 
 
+// Сложение строк
+
+// задача 1
+
+//print("Введите ваше имя!")
+//let name = readLine()
+//print("Введите вашу фамилию!")
+//let surname = readLine()
+//let fullName = (name!) + " " + (surname!)
+//print("Ваше имя и фамилия получается: \(fullName)")
+
+// задача 2
+
+//print("Как ваше имя:")
+//let name = readLine()
+//print("Какой ваш вес:")
+//let weight = readLine()
+//print("Какая ваша размерность:")
+//let dimension = "кг"
+//print("\(name!) весит \(weight!) \(dimension)")
+
+
+
