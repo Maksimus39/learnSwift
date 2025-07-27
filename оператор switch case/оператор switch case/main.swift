@@ -89,7 +89,7 @@
 //case "да" : print("Проходите пожалуйста")
 //case "нет" where Int(age!)! > 2 : print("Вам необходимо сначала купить билет")
 //case _ where Int (age!)!>=0 && Int(age!)!<=2: print("Добро пожаловать")
-//    
+//
 //default:print("К сожалению программа вас не поняла попробуйте ещё раз")
 //}
 
@@ -97,4 +97,31 @@
 // --------------------------------------------- Тернарный оператор условия ----------------------------------------------------
 
 
+//var color:String
+//var darkMode:Bool = true
+//color = darkMode == true ? "черный" : "белый"
+//print(color)
+
+
+//var number:Int
+//var initialValue:Bool = true
+//number = initialValue ?20:10
+//print(number)
+
+// задача 1
+
+//var color:String
+//print("Включить ли тёмную тему?")
+//var darkMode = readLine()
+//color = darkMode == "да" ? "черный" : "белый"
+//print("Цвет фона \(color)")
+
+
+// задача 2
+
+//var color:String
+//print("Включить ли тёмную тему?")
+//var darkMode = Bool(readLine()!)!
+//color = darkMode ? "черный" : "белый"
+//print("Цвет фона \(color)")
 
